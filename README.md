@@ -1,3 +1,3 @@
 # Soumay-Agrawal
 
-# Codes are written in c++ language
+# Codes are written in C++ language

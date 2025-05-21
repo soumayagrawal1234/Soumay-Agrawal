@@ -14,15 +14,15 @@ int main() {
     cin >> operation;
 
     if (operation == "add"){
-      cout<<a+b;
+      // cout<<a+b;
       return a + b;
     }
     else if (operation == "sub"){
-      cout<<a-b;
+      // cout<<a-b;
        return a - b;
     }
     else if (operation == "mul"){
-       cout<<a*b;
+       // cout<<a*b;
         return a * b;
     }
     else if (operation == "div") {
@@ -30,7 +30,7 @@ int main() {
               cout << "Division by 0 is not possible" << endl;
               return -1;
           }
-         cout<<a/b;
+         // cout<<a/b;
           return a / b;
     }
     else {
